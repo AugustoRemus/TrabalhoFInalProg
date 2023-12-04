@@ -1,0 +1,24 @@
+jogador a ficou com 23 pontos
+
+jogador b ficou com 20 pontos
+
+jogador c ficou com 12 pontos
+
+jogador c ganhou o jogo ficando com 12 pontos
+
+jogador a ficou com 15 pontos
+
+jogador b ficou com 8 pontos
+
+jogador c ficou com 15 pontos
+
+jogador b ganhou o jogo ficando com 8 pontos
+
+jogador a ficou com 14 pontos
+
+jogador b ficou com 31 pontos
+
+jogador c ficou com 9 pontos
+
+jogador c ganhou o jogo ficando com 9 pontos
+
